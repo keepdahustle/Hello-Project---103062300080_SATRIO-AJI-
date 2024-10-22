@@ -1,3 +1,7 @@
+// NIM
+// NAMA
+// KELAS
+
 package main
 
 import (
